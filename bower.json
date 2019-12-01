@@ -1,0 +1,13 @@
+{
+  "name": "hello-nodeblog",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.5.0"
+  }
+}
